@@ -3,47 +3,46 @@
 
 - 🌱 I’m currently learning Frontend Web Technologies.
 - 👯 I’m looking to collaborate on Frontend Projects. 
-- 🤔 I’m looking for help with Internship, Job as Frontend Web Developer. 
+- 🤔 I’m looking for help with an Internship, Job as Frontend Web Developer. 
 - 💬 Ask me about anything I don't know, so I can learn something new and teach others.
 - 😄 Pronouns: TechAlcoholic
 - ⚡ Fun fact: I am a Self Learner.
 
 
-I am a dedicated Full Stack developer with over 2.3 years of industry experience specialized in building scalable, high-performance systems that deliver seamless experiences. I thrive in designing and implementing solutions that can handle complex workflows and massive data volumes. My expertise includes working with cutting-edge technologies in areas such as microservices, API development, and data-driven applications. I am always looking for opportunities to learn, innovate, and contribute to projects that push the boundaries of technology.
+I am a dedicated full-stack developer with over 2.3 years of industry experience specialized in building scalable, high-performance systems that deliver seamless experiences. I thrive in designing and implementing solutions that can handle complex workflows and massive data volumes. My expertise includes working with cutting-edge technologies in areas such as microservices, API development, and data-driven applications. I am always looking for opportunities to learn, innovate, and contribute to projects that push the boundaries of technology.
 
 **Technical Expertise**
 
 - Programming Languages : C, C++, Java, Javascript (ES6+), Typescript, Python,  SQL
-- Frameworks & Libraries : React Js,  Vue Js,  Flask, Spring Boot, Firebase
-- Web Technologies : HTML5, CSS3, Bootstrap, JQuery, SCSS, SEO, RESTful APIs
-- Databases : MySQL, Oracle, MongoDb
-- Tools : Git, Github, Docker, Redis, AirFlow
+- Frameworks & Libraries: React Js,  Vue Js,  Flask, Spring Boot, Firebase
+- Web Technologies: HTML5, CSS3, Bootstrap, JQuery, SCSS, SEO, RESTful APIs
+- Databases: MySQL, Oracle, MongoDb
+- Tools: Git, Github, Docker, Redis, AirFlow
 
 **Work Experience**
 
 **Full Stack Developer @Samsung -> (08/23- Present)**
 
-- Developed an end-to-end web based application with 30+ advanced features which is used by 
-  Samsung Research Scientists.
-- Designed and implemented many REST APIS that improved web application performance by 30%.
-- Handled back-end services and APIs using Java & Spring Boot, resulting in a 30% increase in system 
-  performance and a 25% reduction in operational costs.
-- Monitored and optimized web application performance using MYSQL, resulting in 20% reduction in server response times and 30% increase in system reliability.
-
+- Engineered a comprehensive web application, incorporating 32 advanced features, adopted by Samsung Research to streamline internal data processing, and resulting in improved data accessibility for 100+ 
+  researchers.
+- Orchestrated the creation of 15+ REST APIs utilizing Java and Spring Boot, accelerating web application performance by 30% and supporting a 50% surge in user traffic.
+- Revamped back-end architecture with Java & Spring Boot, improving system efficiency by 30% while lowering operational costs by 35%.
+- Conducted code profiling and boosted web app performance by increasing the page load speed by 20% and cutting server response time by 25%.
+- Enhanced software and system reliability via performance tuning and maintenance by 30% and refining code quality by 40%.
+- Administered and optimized MySQL and MongoDB queries which improved DB performance by 35%.
 **Full Stack Developer Intern @Samsung -> (01/23-07/23)**
 
-- Built an advanced platform called Optimas for which is A-Z an employee management system.
-- Developed user interfaces using HTML, CSS, and JavaScript, resulting in a 20% increase in user 
-  satisfaction and a 15% increase in user engagement.
-- Integrated third-party services and APIs to add new functionalities, increasing user interaction by 25%
-- Implemented version control systems to streamline development projects and ensure code accuracy, 
-  cutting the project development time by 25%
+- Architected Optimas, an advanced employee management system streamlining operations for 10,000+ Samsung developers.
+- Crafted dynamic and intuitive UIs using React Js and Bootstrap, leading to a 20% rise in user satisfaction and a 20% boost in engagement
+- Spearheaded application performance and scalability through cross-functional collaboration, achieving a 20% faster load time and a 25% cost savings.
+- Seamlessly integrated third-party services and APIs, enhancing functionality and boosting user interaction by 25%.
+- Established and streamlined robust version control practices by minimizing errors and shortening development cycles by 25%
 
 **Links**
-- Portfolio Website : https://my-live-portfolio-website.netlify.app
-- Resume : https://drive.google.com/file/d/1AVvysD61rbn92S3X6o423JnvP79bdHeb
-- Linkedin Profile : https://www.linkedin.com/in/podilichaitanyaakhilkumar
-- Github Profile : https://github.com/PODILICHAITANYAAKHILKUMAR
+- Portfolio Website: https://my-live-portfolio-website.netlify.app
+- Resume: https://drive.google.com/file/d/1AVvysD61rbn92S3X6o423JnvP79bdHeb
+- Linkedin Profile: https://www.linkedin.com/in/podilichaitanyaakhilkumar
+- Github Profile: https://github.com/PODILICHAITANYAAKHILKUMAR
 
 Let's connect with me at pchakhilkumar1082001@gmail.com to discuss how my expertise can help you achieve your project goals and drive your business forward!
 
