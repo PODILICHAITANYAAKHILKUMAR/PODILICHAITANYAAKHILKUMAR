@@ -1,9 +1,10 @@
 <h1 align="center">Hi Geeks! I'm Podili Chaitanya Akhil Kumar <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning Frontend Web Technologies.
-- 👯 I’m looking to collaborate on Frontend Projects. 
-- 🤔 I’m looking for help with an Internship, Job as Frontend Web Developer. 
+- 🌱 I’m currently working as a Full Stack Developer at Samsung. 
+- 👯 With over 2.3 years of industry experience, I am specialized in building scalable, high-performance systems that deliver seamless experiences
+- 🧰 My expertise includes working with cutting-edge technologies in areas such as microservices, API development, and data-driven applications.
+- 🤔 I am always looking for opportunities to learn, innovate, and contribute to projects that push the boundaries of technology. 
 - 💬 Ask me about anything I don't know, so I can learn something new and teach others.
 - 😄 Pronouns: TechAlcoholic
 - ⚡ Fun fact: I am a Self Learner.
